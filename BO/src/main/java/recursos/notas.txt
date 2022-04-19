@@ -1,0 +1,9 @@
+DTO---- Unicamente clase entidad que representa lo mismo que las tablas de la base de datos.
+
+DAO --- Conexiones y traida de datos de la base de datos y CRUD minomo las 4.
+
+BO ---- Operaciones del programa completo y controladores, ademas de configuraciones generales de todo el proyecto.
+
+ Interfaz clase especial que indica que los datos se convierten en binario para luego desserializarlos
+ 
+ **** solo las clases DTO implementan serializable
